@@ -1,4 +1,4 @@
-# Exercício +PraTi com parceria com a Codifica Edu
+# Exercício +PraTi em parceria com a Codifica Edu
 
 Instruções para executar
 1. Instale o Node.js (https://nodejs.org)
